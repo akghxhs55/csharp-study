@@ -121,7 +121,7 @@ bool ValidateInputIndex(out int index, List<string> todos)
 }
 
 
-static void NoTodoMessage()
+void NoTodoMessage()
 {
     Console.WriteLine("No TODOs have been added yet.");
 }
