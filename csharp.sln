@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-CookieCookbook", "04-Coo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-GameDataParser", "05-GameDataParser\05-GameDataParser.csproj", "{C933C6B3-8A74-4E97-BAE8-1642A41756EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-CustomCache", "06-CustomCache\06-CustomCache.csproj", "{820A65E6-34ED-4499-B526-03D29E7A0C7A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,5 +102,17 @@ Global
 		{C933C6B3-8A74-4E97-BAE8-1642A41756EB}.Release|x64.Build.0 = Release|Any CPU
 		{C933C6B3-8A74-4E97-BAE8-1642A41756EB}.Release|x86.ActiveCfg = Release|Any CPU
 		{C933C6B3-8A74-4E97-BAE8-1642A41756EB}.Release|x86.Build.0 = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|x64.Build.0 = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Debug|x86.Build.0 = Debug|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|x64.ActiveCfg = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|x64.Build.0 = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|x86.ActiveCfg = Release|Any CPU
+		{820A65E6-34ED-4499-B526-03D29E7A0C7A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
