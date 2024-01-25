@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-CookieCookbook", "07-Coo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-CSVProcessing", "08-CSVProcessing\08-CSVProcessing.csproj", "{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-StarWarsPlanetsStats", "09-StarWarsPlanetsStats\09-StarWarsPlanetsStats.csproj", "{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -142,5 +144,17 @@ Global
 		{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}.Release|x64.Build.0 = Release|Any CPU
 		{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}.Release|x86.ActiveCfg = Release|Any CPU
 		{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}.Release|x86.Build.0 = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|x64.Build.0 = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Debug|x86.Build.0 = Debug|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|x64.ActiveCfg = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|x64.Build.0 = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|x86.ActiveCfg = Release|Any CPU
+		{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
