@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-StarWarsPlanetsStats", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CustomLinkedList", "10-CustomLinkedList\10-CustomLinkedList.csproj", "{1AE7347C-D0D5-4BE4-B58E-D0B834296463}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-TicketAggregator", "11-TicketAggregator\11-TicketAggregator.csproj", "{C61343A1-C415-4BDD-B366-093B77C93476}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,5 +172,17 @@ Global
 		{1AE7347C-D0D5-4BE4-B58E-D0B834296463}.Release|x64.Build.0 = Release|Any CPU
 		{1AE7347C-D0D5-4BE4-B58E-D0B834296463}.Release|x86.ActiveCfg = Release|Any CPU
 		{1AE7347C-D0D5-4BE4-B58E-D0B834296463}.Release|x86.Build.0 = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|x64.Build.0 = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Debug|x86.Build.0 = Debug|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|x64.ActiveCfg = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|x64.Build.0 = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|x86.ActiveCfg = Release|Any CPU
+		{C61343A1-C415-4BDD-B366-093B77C93476}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
