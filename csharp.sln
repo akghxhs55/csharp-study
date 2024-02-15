@@ -3,31 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-Exercise", "00-Exercise\00-Exercise.csproj", "{1E2641A7-343F-4697-AAE5-2C6229182087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00-Exercise", "00-Exercise\00-Exercise.csproj", "{1E2641A7-343F-4697-AAE5-2C6229182087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Calculator", "01-Calculator\01-Calculator.csproj", "{D2E5CDAC-BE43-46EC-BE1B-D3481796B35F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01-Calculator", "01-Calculator\01-Calculator.csproj", "{D2E5CDAC-BE43-46EC-BE1B-D3481796B35F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-TodoList", "02-TodoList\02-TodoList.csproj", "{70871DDD-8AE2-4194-A587-9EA0255F313E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02-TodoList", "02-TodoList\02-TodoList.csproj", "{70871DDD-8AE2-4194-A587-9EA0255F313E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-DiceRollGame", "03-DiceRollGame\03-DiceRollGame.csproj", "{6ACB4C44-42C7-4AB3-B969-160E18388D8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03-DiceRollGame", "03-DiceRollGame\03-DiceRollGame.csproj", "{6ACB4C44-42C7-4AB3-B969-160E18388D8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-CookieCookbook", "04-CookieCookbook\04-CookieCookbook.csproj", "{2C2C2796-B2AC-4DC0-8F76-79FEC6B0B3FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04-CookieCookbook", "04-CookieCookbook\04-CookieCookbook.csproj", "{2C2C2796-B2AC-4DC0-8F76-79FEC6B0B3FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-GameDataParser", "05-GameDataParser\05-GameDataParser.csproj", "{C933C6B3-8A74-4E97-BAE8-1642A41756EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05-GameDataParser", "05-GameDataParser\05-GameDataParser.csproj", "{C933C6B3-8A74-4E97-BAE8-1642A41756EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-CustomCache", "06-CustomCache\06-CustomCache.csproj", "{820A65E6-34ED-4499-B526-03D29E7A0C7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06-CustomCache", "06-CustomCache\06-CustomCache.csproj", "{820A65E6-34ED-4499-B526-03D29E7A0C7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-CookieCookbook", "07-CookieCookbook\07-CookieCookbook.csproj", "{E336F93F-2C40-4713-A235-C0EA5056FC74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07-CookieCookbook", "07-CookieCookbook\07-CookieCookbook.csproj", "{E336F93F-2C40-4713-A235-C0EA5056FC74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-CSVProcessing", "08-CSVProcessing\08-CSVProcessing.csproj", "{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08-CSVProcessing", "08-CSVProcessing\08-CSVProcessing.csproj", "{AE66CFC4-DD64-4C60-A438-04A4D6C23CE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-StarWarsPlanetsStats", "09-StarWarsPlanetsStats\09-StarWarsPlanetsStats.csproj", "{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09-StarWarsPlanetsStats", "09-StarWarsPlanetsStats\09-StarWarsPlanetsStats.csproj", "{9FD13124-B91F-4A86-9E4B-2BE7F7DFFA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-CustomLinkedList", "10-CustomLinkedList\10-CustomLinkedList.csproj", "{1AE7347C-D0D5-4BE4-B58E-D0B834296463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10-CustomLinkedList", "10-CustomLinkedList\10-CustomLinkedList.csproj", "{1AE7347C-D0D5-4BE4-B58E-D0B834296463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-TicketAggregator", "11-TicketAggregator\11-TicketAggregator.csproj", "{C61343A1-C415-4BDD-B366-093B77C93476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-TicketAggregator", "11-TicketAggregator\11-TicketAggregator.csproj", "{C61343A1-C415-4BDD-B366-093B77C93476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-NumericTypesSuggester", "12-NumericTypesSuggester\12-NumericTypesSuggester.csproj", "{06386670-2856-429B-945D-65ED1BA4702E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-NumericTypesSuggester", "12-NumericTypesSuggester\12-NumericTypesSuggester.csproj", "{06386670-2856-429B-945D-65ED1BA4702E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-FibonacciGeneratorTests", "13-FibonacciGeneratorTests\13-FibonacciGeneratorTests.csproj", "{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-FibonacciGenerator", "13-FibonacciGenerator\13-FibonacciGenerator.csproj", "{AAECC889-2A93-4964-84D1-39942F671AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,30 @@ Global
 		{06386670-2856-429B-945D-65ED1BA4702E}.Release|x64.Build.0 = Release|Any CPU
 		{06386670-2856-429B-945D-65ED1BA4702E}.Release|x86.ActiveCfg = Release|Any CPU
 		{06386670-2856-429B-945D-65ED1BA4702E}.Release|x86.Build.0 = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|x64.Build.0 = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Debug|x86.Build.0 = Debug|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|x64.ActiveCfg = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|x64.Build.0 = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|x86.ActiveCfg = Release|Any CPU
+		{5FDBCA07-DB71-47D5-BF76-ADD58DC18406}.Release|x86.Build.0 = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|x64.Build.0 = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Debug|x86.Build.0 = Debug|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|x64.ActiveCfg = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|x64.Build.0 = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|x86.ActiveCfg = Release|Any CPU
+		{AAECC889-2A93-4964-84D1-39942F671AD9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
