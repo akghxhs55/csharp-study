@@ -43,7 +43,7 @@ public class StarWarsStatsApp<TTarget>
 
         var property = Console.ReadLine();
 
-        var planets = (IEnumerable<Planet>?)objects;
+        var planets = (IEnumerable<Planet>)objects;
 
         if (property == "population")
         {

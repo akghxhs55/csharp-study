@@ -41,7 +41,7 @@ public class ConsoleTablePrinter<TObject> : IObjectsPrinter<TObject>
         }
     }
 
-    private string StringInColumn(string? str)
+    private string StringInColumn(string str)
     {
         if (str is null)
         {

@@ -14,7 +14,7 @@ public class ApiReader<TRoot> : IApiReader<TRoot>, IDisposable
         };
     }
 
-    public async Task<TRoot?> Read(string requestUri)
+    public async Task<TRoot> Read(string requestUri)
     {
         var response = await _client.GetAsync(requestUri);
         response.EnsureSuccessStatusCode();
